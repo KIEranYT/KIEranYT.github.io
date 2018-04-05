@@ -132,6 +132,19 @@ margin-bottom:5px;
     float: left; 
 }
 
+#home5 {
+       width: 47.5%; 
+    height: 300px; 
+    float: left; 
+    margin-right: 5%;
+}
+
+#home6 { 
+    width: 47.5%; 
+    height: 300px; 
+    float: left; 
+}
+
 
 .clear{
     clear: both;
