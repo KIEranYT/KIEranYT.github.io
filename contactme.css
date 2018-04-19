@@ -126,6 +126,7 @@ vl {
             font-size: 25px;
             color: white;
             display: block;
+	    text-align: center;
         }
 
 .kieransocials h1{
